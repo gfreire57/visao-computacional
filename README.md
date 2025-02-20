@@ -124,16 +124,3 @@ Carlos Melo é <strong>Engenheiro de Visão Computacional</strong> com formaçã
 Para dúvidas, sugestões ou feedbacks:
 
 * **Carlos Melo** - [Contato](https://sigmoidal.ai/contato/)
-
-
-
-# Troubleshooting:
-
-Caso tenha problemas com uso do Poetry, veja algumas coisas que podem ajudar:
-
-* abra o vscode sempre na pasta do projeto. Evite abrir uma pasta acima onde possa conter outras pastas que são externas ao projeto
-* faça a configuração do readme as shown
-* caso nao dê certo, apague o arquivo .venv que foi criado ao seguir os passos e recomeçe o tutorial
-
-
-https://www.youtube.com/watch?v=0f3moPe_bhk&t=255s
